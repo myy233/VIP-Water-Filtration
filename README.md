@@ -1,6 +1,6 @@
 # VIP-Water-Filtration
 
-Code Authored By Elizabth Wilkinson & Salina Buissereth
+Code Authored By Elizabeth Wilkinson & Salina Buissereth
 
 Arduino Source Code for VIP Water Filtration Project
 
